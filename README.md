@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 20, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Gia Busacco)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I created an application that allows its users to scroll through an image gallery with left and right arrows. Also, giving users the option to "Show More Images" using the button.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://giabusacco.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to use document nodes by adding and removing them.)
+2. (I learned how to use different codes to access elements like ids and selectors.)
+3. (I learned how to add code to reveal more images when the Show More Images button is clicked.)
 
