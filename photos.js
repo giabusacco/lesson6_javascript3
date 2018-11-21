@@ -153,7 +153,7 @@ var showAllButton=document.querySelector("#fiveButton p");
 
 //add event listener to show AllButton element
 //when the user clicks the Show More button the preiewFive Function is executed showAllButton.addEventListener("click",previewFive,false);
-   
+  showAllButton.addEventListener("click",previewFive,false); 
 }//end of createEventListeners function
 
 /************************************END OF createEventListeners() FUNCTION****************************/
